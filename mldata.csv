@@ -1,0 +1,39 @@
+Function Name,Statement,Class
+say_goodbye,Prints something,c1
+print_greeting,Prints something,c1
+hello_world,Prints something,c1
+print_something,Prints something,c1
+greet,Prints something,c1
+absolute_value,Performs a calculation,c2
+mean,Performs a calculation,c2
+grade,Performs a calculation,c2
+count_words,Performs a calculation,c2
+count_vowels,Performs a calculation,c2
+sum,Performs a calculation,c2
+calculate_volume,Performs a calculation,c2
+calculate_pay,Performs a calculation,c2
+read_csv,Operates on a file,c3
+file_read,Operates on a file,c3
+read_file,Operates on a file,c3
+read_json,Operates on a file,c3
+read_xlsx,Operates on a file,c3
+sort,Sorts something,c4
+selection_sort,Sorts something,c4
+bubble_sort,Sorts something,c4
+insertion_sort,Sorts something,c4
+quick_sort,Sorts something,c4
+max,Performs a calculation,c2
+min,Performs a calculation,c2
+count,Performs a calculation,c2
+odd,Performs a calculation,c2
+positive,Performs a calculation,c2
+stopwords_removal,Operates on a file,c3
+remove_punctuation,Operates on a file,c3
+reverse_string,Operates on a file,c3
+download_file,Operates on a file,c3
+convert_to_pdf,Operates on a file,c3
+sorting_something,Sorts something,c4
+sort_something,Sorts something,c4
+sort_list,Sorts something,c4
+show_info,Prints something,c1
+show,Prints something,c1
