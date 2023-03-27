@@ -10,3 +10,5 @@ https://www.nltk.org/
 #### Gensim
 https://radimrehurek.com/gensim/
 
+#### Parts of Speech Tag Reference
+https://i.imgur.com/lsmcqqk.jpg
